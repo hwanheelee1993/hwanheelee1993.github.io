@@ -1,4 +1,4 @@
-# Minimal Theme
+# Homepage Using Minimal Theme
 
 [Demo the Theme](http://orderedlist.github.com/minimal/)
 
